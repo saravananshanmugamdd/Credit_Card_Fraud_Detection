@@ -8,3 +8,5 @@ logs/
 data/raw/
 
 .ipynb_checkpoints/
+
+data/raw/*.csv
